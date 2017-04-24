@@ -1,0 +1,16 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "Testing Application for Learning",
+  "main": "meadowlark.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "handlebars": "^4.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
